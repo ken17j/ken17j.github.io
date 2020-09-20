@@ -29,9 +29,11 @@ header nav ul {
 header nav ul li {
   width: 20%;
   text-align: center;
-  border-bottom: 3px solid #fafafa}
-header nav li:hover {
+  border-bottom: 3px solid #fafafa;}
+#selected {
   border-bottom: 3px solid #05ff00;}
+header nav li:hover {
+  border-bottom: 3px solid #fc9720;}
 header a:hover {
   font-weight: bold;}
 
